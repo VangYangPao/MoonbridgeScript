@@ -178,7 +178,7 @@ fi
 #Installing Daemon
 cd ~
 mkdir ~/MoonbridgeMasternodeSetup/moonbridge
-wget https://github.com/MBRCoin/MoonBridge/releases/download/1.0.1/moonbridge-ubuntu.tar.gz
+wget https://github.com/MBRCoin/MoonBridge/files/2248397/moonbridge-ubuntu.tar.gz
 tar -xzf moonbridge-ubuntu.tar.gz -C ~/MoonbridgeMasternodeSetup/moonbridge
 rm -rf moonbridge-ubuntu.tar.gz
 
